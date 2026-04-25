@@ -19,7 +19,7 @@ const milky = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "MooMoo - Coming Soon",
+  title: "mooMoo",
   description: "Something moooo-velous is coming soon!",
 };
 
